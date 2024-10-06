@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "duck_chat"
 readme = "README.md"
 description = "DuckDuckGo Chat AI client"
-requires-python = ">=3.11"
+requires-python = ">=3.5"
 classifiers = [
     "Intended Audience :: Information Technology",
     "Intended Audience :: System Administrators",
